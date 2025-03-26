@@ -11,7 +11,6 @@ idcounter = 0
 
 # Downloads the file from a given URL, to the local destination
 def download(url: str, filename: str, maintainer: str):
-    global idcounter
     file_path = os.path.join(destination_dir, filename)
     print('Downloading', url)
     r = requests.get(url, stream=True)
@@ -28,6 +27,7 @@ def download(url: str, filename: str, maintainer: str):
         with open(file_path) as f:
             try:
                 sourceJson = json.load(f)
+                global idcounter
                 # Add maintainer field to each template
                 for t in sourceJson.get('templates', []):
                     idcounter += 1
