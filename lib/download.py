@@ -7,6 +7,7 @@ dir = os.path.dirname(os.path.abspath(__file__))
 
 destination_dir = os.path.join(dir, '../sources')
 sources_list = os.path.join(dir, '../sources.csv')
+idcounter = 0
 
 # Downloads the file from a given URL, to the local destination
 def download(url: str, filename: str, maintainer: str):
@@ -28,6 +29,8 @@ def download(url: str, filename: str, maintainer: str):
                 sourceJson = json.load(f)
                 # Add maintainer field to each template
                 for t in sourceJson.get('templates', []):
+                    idcounter += 1
+                    t['id'] = idcounter
                     t['maintainer'] = maintainer
 
             except json.decoder.JSONDecodeError as err:
