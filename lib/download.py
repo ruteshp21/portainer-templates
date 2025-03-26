@@ -11,6 +11,7 @@ idcounter = 0
 
 # Downloads the file from a given URL, to the local destination
 def download(url: str, filename: str, maintainer: str):
+    global idcounter
     file_path = os.path.join(destination_dir, filename)
     print('Downloading', url)
     r = requests.get(url, stream=True)
