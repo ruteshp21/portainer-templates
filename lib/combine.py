@@ -56,7 +56,7 @@ for x in templates:
         x['categories'].append(normalized_category)
 
 fileData = {
-  'version': '2',
+  'version': '3',
   'templates': filtered_data
 }
 
