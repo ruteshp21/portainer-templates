@@ -74,6 +74,7 @@
         "stackfile": "stacks/immich/docker-compose.yml",
         "url": "https://github.com/shmolf/portainer-templates"
       },
+      "id": 789,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -141,6 +142,7 @@
         "stackfile": "stacks/penpot/docker-compose-http.yml",
         "url": "https://github.com/shmolf/portainer-templates"
       },
+      "id": 790,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -165,6 +167,7 @@
           "bind": "/var/run/docker.sock"
         }
       ],
+      "id": 791,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -222,6 +225,7 @@
           "container": "/usr/share/tesseract-ocr/5/tessdata"
         }
       ],
+      "id": 792,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -263,6 +267,7 @@
           "container": "/usr/share/tesseract-ocr/5/tessdata"
         }
       ],
+      "id": 793,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -281,6 +286,7 @@
         "8088:80/tcp"
       ],
       "restart_policy": "unless-stopped",
+      "id": 794,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -327,6 +333,7 @@
         "stackfile": "stacks/asciinema/docker-compose.yml",
         "url": "https://github.com/shmolf/portainer-templates"
       },
+      "id": 795,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -407,6 +414,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 796,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -644,6 +652,7 @@
         "url": "https://github.com/shmolf/portainer-templates"
       },
       "restart_policy": "unless-stopped",
+      "id": 797,
       "maintainer": " https://github.com/shmolf/portainer-templates/"
     },
     {
@@ -651,6 +660,7 @@
       "title": "The templates created by Technorabilia have been moved",
       "description": "The new location is https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates.json",
       "platform": "linux",
+      "id": 282,
       "maintainer": " https://github.com/technorabilia/portainer-templates/",
       "categories": []
     },
@@ -904,6 +914,7 @@
           "container": "/opt/adguardhome/conf"
         }
       ],
+      "id": 65,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -965,6 +976,7 @@
           "container": "/config"
         }
       ],
+      "id": 66,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1010,6 +1022,7 @@
           "container": "/app/logs"
         }
       ],
+      "id": 67,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1042,6 +1055,7 @@
           "container": "/etc/authelia/"
         }
       ],
+      "id": 68,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1090,6 +1104,7 @@
           "container": "/movies"
         }
       ],
+      "id": 69,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1133,6 +1148,7 @@
           "container": "/music"
         }
       ],
+      "id": 70,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1158,6 +1174,7 @@
           "container": "/data"
         }
       ],
+      "id": 71,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1207,6 +1224,7 @@
           "container": "/config"
         }
       ],
+      "id": 72,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1251,6 +1269,7 @@
       },
       "title": "Bookstack",
       "type": 3,
+      "id": 73,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1291,6 +1310,7 @@
           "container": "/config"
         }
       ],
+      "id": 74,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1332,6 +1352,7 @@
           "container": "/config"
         }
       ],
+      "id": 75,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1393,6 +1414,7 @@
           "container": "/var/www/html/images"
         }
       ],
+      "id": 76,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1417,6 +1439,7 @@
           "container": "/config"
         }
       ],
+      "id": 77,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1470,6 +1493,7 @@
           "container": "/config"
         }
       ],
+      "id": 78,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1505,6 +1529,7 @@
           "container": "/config"
         }
       ],
+      "id": 79,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1549,6 +1574,7 @@
           "container": "/movies"
         }
       ],
+      "id": 80,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1585,6 +1611,7 @@
           "container": "/music"
         }
       ],
+      "id": 81,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1609,6 +1636,7 @@
           "container": "/dashmachine/dashmachine/user_data"
         }
       ],
+      "id": 82,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1651,6 +1679,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 83,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1680,6 +1709,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 84,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1726,6 +1756,7 @@
         "6881:6881/tcp",
         "6881:6881/udp"
       ],
+      "id": 85,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1764,6 +1795,7 @@
           "container": "/config"
         }
       ],
+      "id": 86,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1802,6 +1834,7 @@
       "restart_policy": "unless-stopped",
       "title": "Duck DNS",
       "type": 1,
+      "id": 87,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1850,6 +1883,7 @@
           "container": "/source"
         }
       ],
+      "id": 88,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1900,6 +1934,7 @@
           "container": "/data/movies"
         }
       ],
+      "id": 89,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1925,6 +1960,7 @@
           "container": "/config"
         }
       ],
+      "id": 90,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1954,6 +1990,7 @@
           "container": "/myfiles"
         }
       ],
+      "id": 91,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -1989,6 +2026,7 @@
           "container": "/config"
         }
       ],
+      "id": 92,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2031,6 +2069,7 @@
           "container": "/mylar"
         }
       ],
+      "id": 93,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2077,6 +2116,7 @@
           "container": "/etc/localtime:ro"
         }
       ],
+      "id": 94,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2102,6 +2142,7 @@
           "container": "/config"
         }
       ],
+      "id": 95,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2143,6 +2184,7 @@
           "container": "/config"
         }
       ],
+      "id": 96,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2180,6 +2222,7 @@
           "container": "/config"
         }
       ],
+      "id": 97,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2223,6 +2266,7 @@
           "container": "/music"
         }
       ],
+      "id": 98,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2261,6 +2305,7 @@
           "container": "/config"
         }
       ],
+      "id": 99,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2302,6 +2347,7 @@
           "container": "/www/config.yml"
         }
       ],
+      "id": 100,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2326,6 +2372,7 @@
           "container": "/var/lib/mysql"
         }
       ],
+      "id": 101,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2374,6 +2421,7 @@
       },
       "title": "Invoice Ninja",
       "type": 3,
+      "id": 102,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2414,6 +2462,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 103,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2464,6 +2513,7 @@
           "container": "/data/movies"
         }
       ],
+      "id": 104,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2500,6 +2550,7 @@
           "container": "/app/config"
         }
       ],
+      "id": 105,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2536,6 +2587,7 @@
           "container": "/config"
         }
       ],
+      "id": 106,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2576,6 +2628,7 @@
           "container": "/books"
         }
       ],
+      "id": 107,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2649,6 +2702,7 @@
           "container": "/config"
         }
       ],
+      "id": 108,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2673,6 +2727,7 @@
           "container": "/config"
         }
       ],
+      "id": 109,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2717,6 +2772,7 @@
           "container": "/music"
         }
       ],
+      "id": 110,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2759,6 +2815,7 @@
           "container": "/pictures"
         }
       ],
+      "id": 111,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2800,6 +2857,7 @@
           "container": "/config"
         }
       ],
+      "id": 112,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2835,6 +2893,7 @@
           "container": "/minecraft"
         }
       ],
+      "id": 113,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2879,6 +2938,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 114,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2913,6 +2973,7 @@
           "container": "/config/.minetest"
         }
       ],
+      "id": 115,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2946,6 +3007,7 @@
       "restart_policy": "unless-stopped",
       "title": "Minisatip",
       "type": 1,
+      "id": 116,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -2974,6 +3036,7 @@
           "container": "/music"
         }
       ],
+      "id": 117,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3028,6 +3091,7 @@
           "container": "/opt/murmur/log"
         }
       ],
+      "id": 118,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3074,6 +3138,7 @@
           "container": "/data"
         }
       ],
+      "id": 119,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3112,6 +3177,7 @@
           "container": "/config"
         }
       ],
+      "id": 120,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3156,6 +3222,7 @@
           "container": "/comics"
         }
       ],
+      "id": 121,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3195,6 +3262,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 122,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3236,6 +3304,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 123,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3285,6 +3354,7 @@
       },
       "title": "Nextcloud",
       "type": 3,
+      "id": 124,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3322,6 +3392,7 @@
           "container": "/config"
         }
       ],
+      "id": 125,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3359,6 +3430,7 @@
           "container": "/etc/letsencrypt"
         }
       ],
+      "id": 126,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3395,6 +3467,7 @@
           "container": "/config"
         }
       ],
+      "id": 127,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3433,6 +3506,7 @@
           "container": "/config"
         }
       ],
+      "id": 128,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3475,6 +3549,7 @@
           "container": "/config"
         }
       ],
+      "id": 129,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3511,6 +3586,7 @@
           "container": "/config"
         }
       ],
+      "id": 130,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3547,6 +3623,7 @@
           "container": "/config"
         }
       ],
+      "id": 131,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3604,6 +3681,7 @@
       },
       "title": "Owncloud",
       "type": 3,
+      "id": 132,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3622,6 +3700,7 @@
       "restart_policy": "unless-stopped",
       "title": "Passky Client",
       "type": 1,
+      "id": 133,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3658,6 +3737,7 @@
           "container": "/var/www/html/databases"
         }
       ],
+      "id": 134,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3695,6 +3775,7 @@
       },
       "title": "Petio",
       "type": 3,
+      "id": 135,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3738,6 +3819,7 @@
           "container": "/config"
         }
       ],
+      "id": 136,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3771,6 +3853,7 @@
           "container": "/etc/dnsmasq.d"
         }
       ],
+      "id": 137,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3806,6 +3889,7 @@
           "container": "/config"
         }
       ],
+      "id": 138,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3854,6 +3938,7 @@
           "container": "/movies"
         }
       ],
+      "id": 139,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3897,6 +3982,7 @@
           "container": "/config"
         }
       ],
+      "id": 140,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3939,6 +4025,7 @@
           "container": "/config"
         }
       ],
+      "id": 141,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -3967,6 +4054,7 @@
           "container": "/root"
         }
       ],
+      "id": 142,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4003,6 +4091,7 @@
           "container": "/config"
         }
       ],
+      "id": 143,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4043,6 +4132,7 @@
           "container": "/data"
         }
       ],
+      "id": 144,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4084,6 +4174,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 145,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4119,6 +4210,7 @@
           "container": "/config"
         }
       ],
+      "id": 146,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4163,6 +4255,7 @@
           "container": "/movies"
         }
       ],
+      "id": 147,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4187,6 +4280,7 @@
           "container": "/usr/src/app"
         }
       ],
+      "id": 148,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4229,6 +4323,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 149,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4270,6 +4365,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 150,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4314,6 +4410,7 @@
           "container": "/incomplete-downloads"
         }
       ],
+      "id": 151,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4338,6 +4435,7 @@
           "container": "/srv/shiori"
         }
       ],
+      "id": 152,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4382,6 +4480,7 @@
           "container": "/tv"
         }
       ],
+      "id": 153,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4426,6 +4525,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 154,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4465,6 +4565,7 @@
           "container": "/data"
         }
       ],
+      "id": 155,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4490,6 +4591,7 @@
           "container": "/app/db/database"
         }
       ],
+      "id": 156,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4538,6 +4640,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 157,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4581,6 +4684,7 @@
           "container": "/sync"
         }
       ],
+      "id": 158,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4622,6 +4726,7 @@
           "container": "/config"
         }
       ],
+      "id": 159,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4657,6 +4762,7 @@
           "container": "/config"
         }
       ],
+      "id": 160,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4682,6 +4788,7 @@
           "container": "/var/lib/tiddlywiki"
         }
       ],
+      "id": 161,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4717,6 +4824,7 @@
           "container": "/config"
         }
       ],
+      "id": 162,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4760,6 +4868,7 @@
           "container": "/watch"
         }
       ],
+      "id": 163,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4823,6 +4932,7 @@
           "container": "/etc/localtime"
         }
       ],
+      "id": 164,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4863,6 +4973,7 @@
           "container": "/recordings"
         }
       ],
+      "id": 165,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4900,6 +5011,7 @@
           "container": "/usr/src/app/analytics"
         }
       ],
+      "id": 166,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4947,6 +5059,7 @@
           "container": "/config"
         }
       ],
+      "id": 167,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -4970,6 +5083,7 @@
           "container": "/app/data"
         }
       ],
+      "id": 168,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5013,6 +5127,7 @@
           "container": "/config"
         }
       ],
+      "id": 169,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5036,6 +5151,7 @@
           "container": "/var/run/docker.sock"
         }
       ],
+      "id": 170,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5073,6 +5189,7 @@
           "container": "/data"
         }
       ],
+      "id": 171,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5097,6 +5214,7 @@
           "container": "/config"
         }
       ],
+      "id": 172,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5126,6 +5244,7 @@
           "container": "/data"
         }
       ],
+      "id": 173,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5154,6 +5273,7 @@
           "container": "/var/run/docker.sock"
         }
       ],
+      "id": 174,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5194,6 +5314,7 @@
           "container": "/app/audio"
         }
       ],
+      "id": 175,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5229,6 +5350,7 @@
           "container": "/config"
         }
       ],
+      "id": 176,
       "maintainer": " https://github.com/Qballjos/portainer_templates/"
     },
     {
@@ -5254,6 +5376,7 @@
           "container": "/config"
         }
       ],
+      "id": 289,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5276,6 +5399,7 @@
           "container": "/root/.caddy"
         }
       ],
+      "id": 292,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5292,6 +5416,7 @@
         "url": "https://github.com/mikestraney/portainer-templates",
         "stackfile": "stacks/cockroachdb/docker-stack.yml"
       },
+      "id": 296,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5314,6 +5439,7 @@
         "8080/tcp",
         "8443/tcp"
       ],
+      "id": 301,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5352,6 +5478,7 @@
           "container": "/app/includes/shared/media"
         }
       ],
+      "id": 302,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5373,6 +5500,7 @@
           "container": "/data"
         }
       ],
+      "id": 305,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5408,6 +5536,7 @@
           "readonly": true
         }
       ],
+      "id": 308,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5428,6 +5557,7 @@
           "container": "/var/www/html"
         }
       ],
+      "id": 314,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5449,6 +5579,7 @@
           "container": "/usr/share/elasticsearch/data"
         }
       ],
+      "id": 317,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5470,6 +5601,7 @@
           "container": "/var/lib/ghost/content"
         }
       ],
+      "id": 324,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5500,6 +5632,7 @@
           "container": "/var/opt/gitlab"
         }
       ],
+      "id": 325,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5520,6 +5653,7 @@
           "container": "/usr/local/apache2/htdocs/"
         }
       ],
+      "id": 332,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5536,6 +5670,7 @@
         "url": "https://github.com/mikestraney/portainer-templates",
         "stackfile": "stacks/ironfunctions/docker-stack.yml"
       },
+      "id": 335,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5557,6 +5692,7 @@
         }
       ],
       "privileged": true,
+      "id": 336,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5584,6 +5720,7 @@
         }
       ],
       "privileged": true,
+      "id": 337,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5611,6 +5748,7 @@
           "container": "/var/jenkins_home"
         }
       ],
+      "id": 340,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5642,6 +5780,7 @@
           "container": "/var/www/html"
         }
       ],
+      "id": 341,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5664,6 +5803,7 @@
           "container": "/var/www/html/"
         }
       ],
+      "id": 348,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5695,6 +5835,7 @@
           "container": "/var/www/html"
         }
       ],
+      "id": 351,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5722,6 +5863,7 @@
           "description": "Azure primary key"
         }
       ],
+      "id": 354,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5756,6 +5898,7 @@
         }
       ],
       "command": "server /data",
+      "id": 356,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5776,6 +5919,7 @@
           "container": "/data/db"
         }
       ],
+      "id": 358,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5802,6 +5946,7 @@
           "container": "/var/lib/mysql"
         }
       ],
+      "id": 364,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5830,6 +5975,7 @@
           "description": "root password for sql"
         }
       ],
+      "id": 366,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5868,6 +6014,7 @@
           "container": "/mnt/extra-addons"
         }
       ],
+      "id": 372,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5885,6 +6032,7 @@
         "url": "https://github.com/openfaas/faas",
         "stackfile": "docker-compose.yml"
       },
+      "id": 374,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5906,6 +6054,7 @@
         "8443/tcp",
         "8447/tcp"
       ],
+      "id": 381,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5926,6 +6075,7 @@
           "container": "/data"
         }
       ],
+      "id": 384,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5942,6 +6092,7 @@
         "url": "https://github.com/mikestraney/portainer-templates",
         "stackfile": "stacks/portainer-agent/docker-stack.yml"
       },
+      "id": 385,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5972,6 +6123,7 @@
           "container": "/var/lib/postgresql/data"
         }
       ],
+      "id": 386,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -5993,6 +6145,7 @@
           "container": "/var/lib/rabbitmq"
         }
       ],
+      "id": 392,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6013,6 +6166,7 @@
           "container": "/data"
         }
       ],
+      "id": 395,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6033,6 +6187,7 @@
           "container": "/usr/src/redmine/files"
         }
       ],
+      "id": 396,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6053,6 +6208,7 @@
           "container": "/var/lib/registry"
         }
       ],
+      "id": 397,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6086,6 +6242,7 @@
           "container": "/usr/src/app/localMetadata"
         }
       ],
+      "id": 401,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6117,6 +6274,7 @@
           "bind": "/var/run/docker.sock"
         }
       ],
+      "id": 402,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6137,6 +6295,7 @@
           "container": "/opt/solr/mydata"
         }
       ],
+      "id": 409,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6163,6 +6322,7 @@
           "label": "SA password"
         }
       ],
+      "id": 411,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6194,6 +6354,7 @@
           "container": "C:/temp/"
         }
       ],
+      "id": 413,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6218,6 +6379,7 @@
           "container": "/var/urbackup"
         }
       ],
+      "id": 424,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6241,6 +6403,7 @@
           "description": "Password used by the MySQL root user."
         }
       ],
+      "id": 429,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6275,6 +6438,7 @@
           "container": "/var/lib/wowza"
         }
       ],
+      "id": 432,
       "maintainer": " https://github.com/mikestraney/portainer-templates/"
     },
     {
@@ -6316,6 +6480,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://adguard.com/en/adguard-home/overview.html\" target=\"_blank\">https://adguard.com/en/adguard-home/overview.html</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/AdguardTeam/AdGuardHome/wiki/Docker\" target=\"_blank\">https://github.com/AdguardTeam/AdGuardHome/wiki/Docker</a><br><br><br>",
+      "id": 438,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6342,6 +6507,7 @@
           "container": "/home/alpine/downloads"
         }
       ],
+      "id": 439,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6380,6 +6546,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://httpd.apache.org/\" target=\"_blank\">https://httpd.apache.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/_/httpd\" target=\"_blank\">https://hub.docker.com/_/httpd</a><br><br><br>",
+      "id": 440,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6432,6 +6599,7 @@
           "container": "/data"
         }
       ],
+      "id": 442,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6477,6 +6645,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/hurlenko/aria2-ariang-docker\" target=\"_blank\">https://github.com/hurlenko/aria2-ariang-docker</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/hurlenko/aria2-ariang-docker\" target=\"_blank\">https://github.com/hurlenko/aria2-ariang-docker</a><br><br><br>",
+      "id": 443,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6509,6 +6678,7 @@
       "title": "Chrony NTP",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/cturra/docker-ntp\" target=\"_blank\">https://github.com/cturra/docker-ntp</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/cturra/docker-ntp/blob/main/README.md\" target=\"_blank\">https://github.com/cturra/docker-ntp/blob/main/README.md</a><br><br><br>",
+      "id": 447,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6546,6 +6716,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://docs.clamav.net/\" target=\"_blank\">https://docs.clamav.net/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/mkodockx/docker-clamav\" target=\"_blank\">https://hub.docker.com/r/mkodockx/docker-clamav</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_clamav.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_clamav.sh | bash</h3><br><br>",
+      "id": 448,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6579,6 +6750,7 @@
       "title": "Cloudflare DDNS",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.cloudflare.com/en-gb/learning/dns/glossary/dynamic-dns/\" target=\"_blank\">https://www.cloudflare.com/en-gb/learning/dns/glossary/dynamic-dns/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/favonia/cloudflare-ddns/\" target=\"_blank\">https://github.com/favonia/cloudflare-ddns/</a><br><br><br>",
+      "id": 449,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6615,6 +6787,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://dashy.to\" target=\"_blank\">https://dashy.to</a><br><b>Official Docker Documentation: </b><a href=\"https://dashy.to/docs/quick-start\" target=\"_blank\">https://dashy.to/docs/quick-start</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_dashy.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_dashy.sh | bash</h3><br><br>",
+      "id": 451,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6671,6 +6844,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/docs/davinci.md\" target=\"_blank\">https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/docs/davinci.md</a><br><b>Official Docker Documentation: </b><a href=\"https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/docs/davinci.md\" target=\"_blank\">https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/docs/davinci.md</a><br><br><br>",
+      "id": 452,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6696,6 +6870,7 @@
           "container": "/var/run/docker.sock"
         }
       ],
+      "id": 454,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6730,6 +6905,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://mosquitto.org/\" target=\"_blank\">https://mosquitto.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://mosquitto.org/\" target=\"_blank\">https://mosquitto.org/</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_mosquitto.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_mosquitto.sh | bash</h3><br><br>",
+      "id": 455,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6763,6 +6939,7 @@
           "container": "/config/settings.json"
         }
       ],
+      "id": 456,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6808,6 +6985,7 @@
           "container": "/config/settings.json"
         }
       ],
+      "id": 457,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6844,6 +7022,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/pawelmalak/flame\" target=\"_blank\">https://github.com/pawelmalak/flame</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/pawelmalak/flame#with-docker-recommended\" target=\"_blank\">https://github.com/pawelmalak/flame#with-docker-recommended</a><br><br><br>",
+      "id": 458,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6885,6 +7064,7 @@
       "title": "FlareSolverr",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Docker Documentation: </b><a href=\"https://github.com/FlareSolverr/FlareSolverr#installation\" target=\"_blank\">https://github.com/FlareSolverr/FlareSolverr#installation</a><br><br><br>",
+      "id": 459,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6932,6 +7112,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://foundryvtt.com/\" target=\"_blank\">https://foundryvtt.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/felddy/foundryvtt\" target=\"_blank\">https://hub.docker.com/r/felddy/foundryvtt</a><br><br><br>",
+      "id": 460,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -6982,6 +7163,7 @@
       "title": "Ghostfolio",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://ghostfol.io/\" target=\"_blank\">https://ghostfol.io/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/ghostfolio/ghostfolio#self-hosting\" target=\"_blank\">https://github.com/ghostfolio/ghostfolio#self-hosting</a><br><br><br>",
+      "id": 462,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7000,6 +7182,7 @@
       "title": "Go-Socks5-Proxy",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://hub.docker.com/r/serjs/go-socks5-proxy\" target=\"_blank\">https://hub.docker.com/r/serjs/go-socks5-proxy</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/serjs/go-socks5-proxy\" target=\"_blank\">https://hub.docker.com/r/serjs/go-socks5-proxy</a><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=IWj1-j2QWvo target=\"_blank\">Novaspirit Tech - Route Docker Traffic Through VPN Container</a><br><br>",
+      "id": 463,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7042,6 +7225,7 @@
           "container": "/app/data"
         }
       ],
+      "id": 464,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7064,6 +7248,7 @@
       "title": "Grafana",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://grafana.com/grafana/\" target=\"_blank\">https://grafana.com/grafana/</a><br><b>Official Docker Documentation: </b><a href=\"https://grafana.com/docs/grafana/v9.0/setup-grafana/installation/docker/\" target=\"_blank\">https://grafana.com/docs/grafana/v9.0/setup-grafana/installation/docker/</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_grafana.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_grafana.sh | bash</h3><br><br>",
+      "id": 465,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7110,6 +7295,7 @@
           "container": "/app/public/icons"
         }
       ],
+      "id": 467,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7152,6 +7338,7 @@
           "container": "/app/public/icons"
         }
       ],
+      "id": 468,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7173,6 +7360,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.home-assistant.io/\" target=\"_blank\">https://www.home-assistant.io/</a><br><b>Official Docker Documentation: </b><a href=\"https://www.home-assistant.io/installation/raspberrypi#install-home-assistant-container\" target=\"_blank\">https://www.home-assistant.io/installation/raspberrypi#install-home-assistant-container</a><br><br><br>",
+      "id": 469,
       "maintainer": " https://github.com/novaspirit/pi-hosted/",
       "categories": []
     },
@@ -7224,6 +7412,7 @@
           "container": "/homebridge"
         }
       ],
+      "id": 470,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7274,6 +7463,7 @@
           "container": "/homebridge"
         }
       ],
+      "id": 471,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7309,6 +7499,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/benphelps/homepage\" target=\"_blank\">https://github.com/benphelps/homepage</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/benphelps/homepage\" target=\"_blank\">https://github.com/benphelps/homepage</a><br><br><br>",
+      "id": 472,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7339,6 +7530,7 @@
           "container": "/etc/influxdb"
         }
       ],
+      "id": 475,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7375,6 +7567,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/buanet/ioBroker.docker\" target=\"_blank\">https://github.com/buanet/ioBroker.docker</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/buanet/ioBroker.docker\" target=\"_blank\">https://github.com/buanet/ioBroker.docker</a><br><br><br>",
+      "id": 476,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7421,6 +7614,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://my.jdownloader.org/\" target=\"_blank\">https://my.jdownloader.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/jaymoulin/docker-jdownloader\" target=\"_blank\">https://github.com/jaymoulin/docker-jdownloader</a><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=30MYRgCObu8&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=4 target=\"_blank\">Novaspirit Tech - Installing JDownloader and File Browser On The Pi Docker Server</a><br><br>",
+      "id": 477,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7458,6 +7652,7 @@
           "readonly": true
         }
       ],
+      "id": 478,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7502,6 +7697,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.kavitareader.com/\" target=\"_blank\">https://www.kavitareader.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://wiki.kavitareader.com/installation/docker\" target=\"_blank\">https://wiki.kavitareader.com/installation/docker</a><br><br><br>",
+      "id": 479,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7529,6 +7725,7 @@
       "restart_policy": "unless-stopped",
       "title": "Klipper[Testing], Mainsail, Moonraker",
       "type": 3,
+      "id": 480,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7563,6 +7760,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/gotson/komga\" target=\"_blank\">https://github.com/gotson/komga</a><br><b>Official Docker Documentation: </b><a href=\"https://komga.org/\" target=\"_blank\">https://komga.org/</a><br><br><br>",
+      "id": 482,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7588,6 +7786,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://libreddit.silkky.cloud/\" target=\"_blank\">https://libreddit.silkky.cloud/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/spikecodes/libreddit#2-docker\" target=\"_blank\">https://github.com/spikecodes/libreddit#2-docker</a><br><br><br>",
+      "id": 483,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7631,6 +7830,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/nitnelave/lldap\" target=\"_blank\">https://github.com/nitnelave/lldap</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/nitnelave/lldap\" target=\"_blank\">https://github.com/nitnelave/lldap</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_lldap.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_lldap.sh | bash</h3><br><br>",
+      "id": 484,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7667,6 +7867,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/krateng/maloja\" target=\"_blank\">https://github.com/krateng/maloja</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/krateng/maloja/blob/master/README.md\" target=\"_blank\">https://github.com/krateng/maloja/blob/master/README.md</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_maloja.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_maloja.sh | bash</h3><br><br>",
+      "id": 485,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7749,6 +7950,7 @@
           "container": "/app/data"
         }
       ],
+      "id": 486,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7785,6 +7987,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://hub.docker.com/r/alexta69/metube\" target=\"_blank\">https://hub.docker.com/r/alexta69/metube</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/alexta69/metube\" target=\"_blank\">https://github.com/alexta69/metube</a><br><br><br>",
+      "id": 487,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7818,6 +8021,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.minecraft.net/en-us\" target=\"_blank\">https://www.minecraft.net/en-us</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/itzg/docker-minecraft-server#using-docker-compose\" target=\"_blank\">https://github.com/itzg/docker-minecraft-server#using-docker-compose</a><br><br><br>",
+      "id": 488,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7860,6 +8064,7 @@
           "container": "/home/node/.n8n"
         }
       ],
+      "id": 491,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7921,6 +8126,7 @@
           "container": "/host/etc/os-release:ro"
         }
       ],
+      "id": 492,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -7987,6 +8193,7 @@
       "title": "Nginx Proxy Manager v2 with Sqlite and Goaccess Charts",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://nginxproxymanager.com/\" target=\"_blank\">https://nginxproxymanager.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://nginxproxymanager.com/setup/#running-the-app\" target=\"_blank\">https://nginxproxymanager.com/setup/#running-the-app</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/nginx_proxy_manager.md\" target=\"_blank\">nginx_proxy_manager.md</a></h3><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=yl2Laxbqvo8&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=10 target=\"_blank\">Novaspirit Tech - Installing Nginx Proxy Manager on Docker</a><br><br>",
+      "id": 493,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8035,6 +8242,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://nginxproxymanager.com/\" target=\"_blank\">https://nginxproxymanager.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://nginxproxymanager.com/setup/\" target=\"_blank\">https://nginxproxymanager.com/setup/</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/nginx_proxy_manager.md\" target=\"_blank\">nginx_proxy_manager.md</a></h3><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=yl2Laxbqvo8&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=10 target=\"_blank\">Novaspirit Tech - Installing Nginx Proxy Manager on Docker</a><br><br>",
+      "id": 494,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8079,6 +8287,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://nginxproxymanager.com/\" target=\"_blank\">https://nginxproxymanager.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://nginxproxymanager.com/setup/\" target=\"_blank\">https://nginxproxymanager.com/setup/</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/nginx_proxy_manager.md\" target=\"_blank\">nginx_proxy_manager.md</a></h3><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=yl2Laxbqvo8&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=10 target=\"_blank\">Novaspirit Tech - Installing Nginx Proxy Manager on Docker</a><br><br>",
+      "id": 495,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8099,6 +8308,7 @@
       "title": "Nitter",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://nitter.net/\" target=\"_blank\">https://nitter.net/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/zedeus/nitter\" target=\"_blank\">https://github.com/zedeus/nitter</a><br><br><br>",
+      "id": 496,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8134,6 +8344,7 @@
       "title": "Node Red",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://nodered.org/\" target=\"_blank\">https://nodered.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://nodered.org/docs/getting-started/docker\" target=\"_blank\">https://nodered.org/docs/getting-started/docker</a><br><br><br>",
+      "id": 497,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8200,6 +8411,7 @@
       "type": 1,
       "privileged": true,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/azinchen/nordvpn\" target=\"_blank\">https://github.com/azinchen/nordvpn</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/azinchen/nordvpn\" target=\"_blank\">https://hub.docker.com/r/azinchen/nordvpn</a><br><br><br>",
+      "id": 498,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8256,6 +8468,7 @@
       "title": "NUT Server",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://networkupstools.org\" target=\"_blank\">https://networkupstools.org</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/instantlinux/nut-upsd\" target=\"_blank\">https://hub.docker.com/r/instantlinux/nut-upsd</a><br><br><br>",
+      "id": 499,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8298,6 +8511,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://octoprint.org/\" target=\"_blank\">https://octoprint.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/octoprint/octoprint\" target=\"_blank\">https://hub.docker.com/r/octoprint/octoprint</a><br><br><br>",
+      "id": 500,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8342,6 +8556,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.tp-link.com/us/business-networking/omada-sdn-controller/\" target=\"_blank\">https://www.tp-link.com/us/business-networking/omada-sdn-controller/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/mbentley/omada-controller\" target=\"_blank\">https://hub.docker.com/r/mbentley/omada-controller</a><br><br><br>",
+      "id": 501,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8379,6 +8594,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://organizr.app/\" target=\"_blank\">https://organizr.app/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/organizr/organizr\" target=\"_blank\">https://hub.docker.com/r/organizr/organizr</a><br><br><br>",
+      "id": 502,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8449,6 +8665,7 @@
       "title": "Paperless NGX",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/paperless-ngx/paperless-ngx\" target=\"_blank\">https://github.com/paperless-ngx/paperless-ngx</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/paperless-ngx/paperless-ngx\" target=\"_blank\">https://github.com/paperless-ngx/paperless-ngx</a><br><br><br>",
+      "id": 503,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8566,6 +8783,7 @@
       "title": "Passbolt",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/passbolt.md\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted/blob/master/docs/passbolt.md</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/passbolt.md\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted/blob/master/docs/passbolt.md</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/passbolt.md\" target=\"_blank\">passbolt.md</a></h3><br><br><br>",
+      "id": 504,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8618,6 +8836,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.pgadmin.org/\" target=\"_blank\">https://www.pgadmin.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html\" target=\"_blank\">https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_pgadmin.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_pgadmin.sh | bash</h3><br><br>",
+      "id": 505,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8651,6 +8870,7 @@
           "container": "/etc/dnsmasq.d"
         }
       ],
+      "id": 507,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8723,6 +8943,7 @@
           "container": "/etc/dnsmasq.d"
         }
       ],
+      "id": 508,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8759,6 +8980,7 @@
       ],
       "privileged": true,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"http://www.penguintutor.com/projects/pixel-server\" target=\"_blank\">http://www.penguintutor.com/projects/pixel-server</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/Macleykun/pixel-server\" target=\"_blank\">https://github.com/Macleykun/pixel-server</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/pixel-server_setup.md\" target=\"_blank\">pixel-server_setup.md</a></h3><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_pixel-server.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_pixel-server.sh | bash</h3><br><br>",
+      "id": 510,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8803,6 +9025,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://privatebin.info/\" target=\"_blank\">https://privatebin.info/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/privatebin/nginx-fpm-alpine\" target=\"_blank\">https://hub.docker.com/r/privatebin/nginx-fpm-alpine</a><br><br><br>",
+      "id": 512,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8859,6 +9082,7 @@
           "container": "/app/qBittorrent/downloads"
         }
       ],
+      "id": 513,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8888,6 +9112,7 @@
       "title": "Raspberry Pi Docker Monitor",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/rpi_docker_monitor.md\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted/blob/master/docs/rpi_docker_monitor.md</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/rpi_docker_monitor.md\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted/blob/master/docs/rpi_docker_monitor.md</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/rpi_docker_monitor.md\" target=\"_blank\">rpi_docker_monitor.md</a></h3><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/rpi_docker_monitor.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/rpi_docker_monitor.sh | bash</h3><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=IoD3vFuep64&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=8 target=\"_blank\">Novaspirit Tech - Raspberry Pi Docker Monitoring</a><br><br>",
+      "id": 514,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8932,6 +9157,7 @@
           "container": "/data"
         }
       ],
+      "id": 515,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -8997,6 +9223,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.samba.org/\" target=\"_blank\">https://www.samba.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/dperson/samba\" target=\"_blank\">https://github.com/dperson/samba</a><br><br><br><b>Youtube Videos:</b><br><ul><li><a href=https://www.youtube.com/watch?v=2zZ3_1GRWrM&list=PL846hFPMqg3jwkxcScD1xw2bKXrJVvarc&index=11 target=\"_blank\">Novaspirit Tech - Setting up Raspberry Pi Samba Server For File Sharing on Docker</a></li><li><a href=https://www.youtube.com/watch?v=9ln6UFH4z8o target=\"_blank\">Novaspirit Tech - Building NAS with Container</a></li></ul><br><br>",
+      "id": 517,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9034,6 +9261,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://docs.searxng.org/\" target=\"_blank\">https://docs.searxng.org/</a><br><b>Official Docker Documentation: </b><a href=\"https://docs.searxng.org/admin/installation-docker.html\" target=\"_blank\">https://docs.searxng.org/admin/installation-docker.html</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/searxng.md\" target=\"_blank\">searxng.md</a></h3><br><br><br>",
+      "id": 518,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9059,6 +9287,7 @@
           "container": "/app/data"
         }
       ],
+      "id": 520,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9092,6 +9321,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/henrywhitaker3/Speedtest-Tracker\" target=\"_blank\">https://github.com/henrywhitaker3/Speedtest-Tracker</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/henrywhitaker3/Speedtest-Tracker#using-docker\" target=\"_blank\">https://github.com/henrywhitaker3/Speedtest-Tracker#using-docker</a><br><br><br>",
+      "id": 521,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9111,6 +9341,7 @@
       "title": "Sshwifty",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://sshwifty.herokuapp.com/\" target=\"_blank\">https://sshwifty.herokuapp.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/nirui/sshwifty#docker-image\" target=\"_blank\">https://github.com/nirui/sshwifty#docker-image</a><br><br><br>",
+      "id": 522,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9149,6 +9380,7 @@
       "title": "SurrealDB",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://surrealdb.com/\" target=\"_blank\">https://surrealdb.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/surrealdb/surrealdb\" target=\"_blank\">https://hub.docker.com/r/surrealdb/surrealdb</a><br><br><br>",
+      "id": 523,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9189,6 +9421,7 @@
       ],
       "network": "host",
       "privileged": true,
+      "id": 524,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9224,6 +9457,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://tailscale.com/\" target=\"_blank\">https://tailscale.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/r/tailscale/tailscale\" target=\"_blank\">https://hub.docker.com/r/tailscale/tailscale</a><br><br><br>",
+      "id": 525,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9264,6 +9498,7 @@
           "container": "/var/run/docker.sock"
         }
       ],
+      "id": 527,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9343,6 +9578,7 @@
           "container": "/etc/localtime"
         }
       ],
+      "id": 528,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9422,6 +9658,7 @@
           "container": "/etc/localtime"
         }
       ],
+      "id": 529,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9480,6 +9717,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/pducharme/UniFi-Video-Controller\" target=\"_blank\">https://github.com/pducharme/UniFi-Video-Controller</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/pducharme/UniFi-Video-Controller\" target=\"_blank\">https://github.com/pducharme/UniFi-Video-Controller</a><br><br><br>",
+      "id": 530,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9524,6 +9762,7 @@
         }
       ],
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://docs.unmanic.app/\" target=\"_blank\">https://docs.unmanic.app/</a><br><b>Official Docker Documentation: </b><a href=\"https://docs.unmanic.app/docs/installation/docker\" target=\"_blank\">https://docs.unmanic.app/docs/installation/docker</a><br><br><br>",
+      "id": 531,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9543,6 +9782,7 @@
       "title": "Vlmcsd - KMS",
       "type": 1,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://hub.docker.com/r/mikolatero/vlmcsd\" target=\"_blank\">https://hub.docker.com/r/mikolatero/vlmcsd</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/mikolatero/docker-vlmcsd\" target=\"_blank\">https://github.com/mikolatero/docker-vlmcsd</a><br><br><br>",
+      "id": 535,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9595,6 +9835,7 @@
       "title": "Wireguard Server",
       "type": 3,
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://github.com/WeeJeWel/wg-easy/\" target=\"_blank\">https://github.com/WeeJeWel/wg-easy/</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/WeeJeWel/wg-easy/#1-install-docker\" target=\"_blank\">https://github.com/WeeJeWel/wg-easy/#1-install-docker</a><br><h3><b>Pi-Hosted dedicated documentation: </b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/docs/wireguard-install.md\" target=\"_blank\">wireguard-install.md</a></h3><br><br><br><b>Youtube Video: </b><a href=https://www.youtube.com/watch?v=yB_jAumIxOg target=\"_blank\">Novaspirit Tech - Beginners Guide to WireGuard Docker and Installing Pi-OS 64bit</a><br><br>",
+      "id": 538,
       "maintainer": " https://github.com/novaspirit/pi-hosted/"
     },
     {
@@ -9627,6 +9868,7 @@
       },
       "title": "Authentik",
       "type": 3,
+      "id": 589,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9671,6 +9913,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 590,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9721,6 +9964,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 591,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9765,6 +10009,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 592,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9808,6 +10053,7 @@
       },
       "title": "MeshCentral",
       "type": 3,
+      "id": 593,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9828,6 +10074,7 @@
       "restart_policy": "always",
       "title": "Freeboard",
       "type": 3,
+      "id": 594,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9848,6 +10095,7 @@
       "restart_policy": "always",
       "title": "Servas",
       "type": 3,
+      "id": 596,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9868,6 +10116,7 @@
       "restart_policy": "always",
       "title": "Wallabag",
       "type": 3,
+      "id": 597,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9903,6 +10152,7 @@
           "container": "/config"
         }
       ],
+      "id": 599,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9937,6 +10187,7 @@
           "container": "/home/node/trilium-data"
         }
       ],
+      "id": 600,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9953,6 +10204,7 @@
       },
       "title": "Frigate NVR",
       "type": 3,
+      "id": 601,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -9985,6 +10237,7 @@
       },
       "title": "Fenrus",
       "type": 3,
+      "id": 602,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10032,6 +10285,7 @@
           "container": "/metadata"
         }
       ],
+      "id": 603,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10060,6 +10314,7 @@
       },
       "title": "Vikunja",
       "type": 3,
+      "id": 604,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10083,6 +10338,7 @@
       },
       "title": "Stash",
       "type": 3,
+      "id": 605,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10099,6 +10355,7 @@
       },
       "title": "Rocket Chat",
       "type": 3,
+      "id": 606,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10127,6 +10384,7 @@
       },
       "title": "Joplin",
       "type": 3,
+      "id": 607,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10170,6 +10428,7 @@
           "container": "/books"
         }
       ],
+      "id": 608,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10227,6 +10486,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 609,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10278,6 +10538,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 610,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10319,6 +10580,7 @@
           "container": "/opt/magic_mirror/css"
         }
       ],
+      "id": 611,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10393,6 +10655,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 614,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10410,6 +10673,7 @@
       "restart_policy": "unless-stopped",
       "title": "draw.io",
       "type": 1,
+      "id": 618,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10442,6 +10706,7 @@
       },
       "title": "Navidrome",
       "type": 3,
+      "id": 620,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10465,6 +10730,7 @@
           "container": "/app/data"
         }
       ],
+      "id": 621,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10510,6 +10776,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 622,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10554,6 +10821,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 707,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10616,6 +10884,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 708,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10686,6 +10955,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 709,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10731,6 +11001,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 710,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10787,6 +11058,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 711,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10861,6 +11133,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 712,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10905,6 +11178,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 713,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -10949,6 +11223,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 714,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11077,6 +11352,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 715,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11133,6 +11409,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 717,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11178,6 +11455,7 @@
         "9000:9000/tcp"
       ],
       "restart_policy": "unless-stopped",
+      "id": 718,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11222,6 +11500,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 719,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11266,6 +11545,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 720,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11354,6 +11634,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 721,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11372,6 +11653,7 @@
         "80:80/tcp"
       ],
       "restart_policy": "unless-stopped",
+      "id": 722,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11536,6 +11818,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 723,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11634,6 +11917,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 724,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11688,6 +11972,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 725,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11742,6 +12027,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 726,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11786,6 +12072,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 727,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11835,6 +12122,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 728,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11887,6 +12175,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 729,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11932,6 +12221,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 730,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -11987,6 +12277,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 731,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12071,6 +12362,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 732,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12116,6 +12408,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 733,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12188,6 +12481,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 734,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12244,6 +12538,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 735,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12304,6 +12599,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 736,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12354,6 +12650,7 @@
         }
       ],
       "restart_policy": "unless-stopped",
+      "id": 737,
       "maintainer": " https://github.com/mycroftwilde/portainer_templates/"
     },
     {
@@ -12408,6 +12705,7 @@
           "container": "/config"
         }
       ],
+      "id": 9,
       "maintainer": " https://github.com/dnburgess/self-hosted-template/",
       "categories": []
     },
@@ -12446,6 +12744,7 @@
           "container": "/config"
         }
       ],
+      "id": 12,
       "maintainer": " https://github.com/dnburgess/self-hosted-template/",
       "categories": []
     },
@@ -12491,6 +12790,7 @@
           "container": "/config"
         }
       ],
+      "id": 44,
       "maintainer": " https://github.com/dnburgess/self-hosted-template/",
       "categories": []
     },
@@ -12534,6 +12834,7 @@
           "container": "/downloads"
         }
       ],
+      "id": 46,
       "maintainer": " https://github.com/dnburgess/self-hosted-template/",
       "categories": []
     },
@@ -12609,6 +12910,7 @@
           "container": "/config"
         }
       ],
+      "id": 57,
       "maintainer": " https://github.com/dnburgess/self-hosted-template/",
       "categories": []
     },
@@ -12637,6 +12939,7 @@
           "preset": true
         }
       ],
+      "id": 799,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12651,6 +12954,7 @@
       "image": "ubuntu:latest",
       "interactive": true,
       "command": "/bin/bash",
+      "id": 800,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12665,6 +12969,7 @@
       "image": "node:latest",
       "interactive": true,
       "command": "/bin/bash",
+      "id": 801,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12692,6 +12997,7 @@
           "label": "Grafana admin password"
         }
       ],
+      "id": 819,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12713,6 +13019,7 @@
           "label": "Redis password"
         }
       ],
+      "id": 820,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12753,6 +13060,7 @@
           "description": "Image build cache path. Generally set to <data dir> + '/home/dokku'"
         }
       ],
+      "id": 834,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12803,6 +13111,7 @@
           "container": "/var/log/opcrouter"
         }
       ],
+      "id": 835,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12824,6 +13133,7 @@
           "container": "/licsrv/licenses"
         }
       ],
+      "id": 836,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12841,6 +13151,7 @@
         "8099/tcp",
         "4897/tcp"
       ],
+      "id": 837,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12858,6 +13169,7 @@
         "8099/tcp",
         "4897/tcp"
       ],
+      "id": 838,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12875,6 +13187,7 @@
         "8099/tcp",
         "4897/tcp"
       ],
+      "id": 839,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12906,6 +13219,7 @@
           "container": "/mqtt"
         }
       ],
+      "id": 840,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12937,6 +13251,7 @@
           "container": "/mqtt"
         }
       ],
+      "id": 841,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -12986,6 +13301,7 @@
           "description": "Secret token used to log into Vault (don't include '.' character)."
         }
       ],
+      "id": 848,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -13008,6 +13324,7 @@
           "label": "API Password"
         }
       ],
+      "id": 852,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13030,6 +13347,7 @@
           "label": "Postgres password"
         }
       ],
+      "id": 854,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -13051,6 +13369,7 @@
           "label": "License key"
         }
       ],
+      "id": 856,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -13086,6 +13405,7 @@
           "label": "Management Center password"
         }
       ],
+      "id": 857,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -13093,6 +13413,7 @@
       "title": "Softing EdgeConnector modbus",
       "description": "Connect Modbus TCP Sensors/PLCs and provide the data via OPC UA and MQTT",
       "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/edge/softing-edgeconnector-modbus/docker-compose.yml",
+      "id": 858,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13101,6 +13422,7 @@
       "title": "Softing EdgeConnector 840D",
       "description": "Access Siemens SINUMERIK 840D sl/pl controllers and provide data via OPC UA and MQTT",
       "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/edge/softing-edgeconnector-840d/docker-compose.yml",
+      "id": 859,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13109,6 +13431,7 @@
       "title": "Softing EdgeConnector Siemens",
       "description": "Connect Siemens SIMATIC S7-300/400/1200/1500 PLCs and provide the data via OPC UA and MQTT",
       "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/edge/softing-edgeconnector-siemens/docker-compose.yml",
+      "id": 860,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13117,6 +13440,7 @@
       "title": "Softing EdgeConnector FANUC CNC",
       "description": "Connect FANUC CNCs and provide the data via OPC UA and MQTT",
       "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/edge/softing-edgeconnector-fanuc-cnc/docker-compose.yml",
+      "id": 861,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13125,6 +13449,7 @@
       "title": "Softing EdgeConnector Aggregator",
       "description": "Offers a powerful OPC UA aggregation service which provides data via OPC UA, as well as MQTT",
       "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/edge/softing-edgeconnector-aggregator/docker-compose.yml",
+      "id": 862,
       "maintainer": " https://github.com/portainer/templates/",
       "categories": []
     },
@@ -13158,6 +13483,7 @@
           ]
         }
       ],
+      "id": 865,
       "maintainer": " https://github.com/portainer/templates/"
     },
     {
@@ -13193,6 +13519,7 @@
           "container": "/config"
         }
       ],
+      "id": 221,
       "maintainer": " https://github.com/SelfhostedPro/selfhosted_templates/"
     },
     {
@@ -13234,6 +13561,7 @@
       },
       "title": "Pritunl",
       "type": 3,
+      "id": 248,
       "maintainer": " https://github.com/SelfhostedPro/selfhosted_templates/"
     },
     {
@@ -13292,6 +13620,7 @@
           "container": "/config"
         }
       ],
+      "id": 280,
       "maintainer": " https://github.com/SelfhostedPro/selfhosted_templates/"
     },
     {
@@ -13309,6 +13638,7 @@
       "restart_policy": "unless-stopped",
       "title": "Dradis",
       "type": 1,
+      "id": 281,
       "maintainer": " https://github.com/SelfhostedPro/selfhosted_templates/"
     },
     {
@@ -13356,6 +13686,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 742,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13398,6 +13729,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 745,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13460,6 +13792,7 @@
           "value": "true"
         }
       ],
+      "id": 746,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13522,6 +13855,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 750,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13622,6 +13956,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 752,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13640,6 +13975,7 @@
         "url": "https://github.com/mediadepot/templates",
         "stackfile": "stacks/filerun/docker-compose.yml"
       },
+      "id": 754,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13683,6 +14019,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 755,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13722,6 +14059,7 @@
         "url": "https://github.com/mediadepot/templates",
         "stackfile": "stacks/klaxon/docker-compose.yml"
       },
+      "id": 760,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13760,6 +14098,7 @@
         }
       ],
       "labels": [],
+      "id": 762,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13809,6 +14148,7 @@
         }
       ],
       "labels": [],
+      "id": 763,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13825,6 +14165,7 @@
         "url": "https://github.com/mediadepot/templates",
         "stackfile": "stacks/mayan/docker-compose.yml"
       },
+      "id": 764,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13890,6 +14231,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 766,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13962,6 +14304,7 @@
           "value": "32400"
         }
       ],
+      "id": 769,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -13978,6 +14321,7 @@
         "url": "https://github.com/mediadepot/templates",
         "stackfile": "stacks/plextraktsync/docker-compose.yml"
       },
+      "id": 770,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14093,6 +14437,7 @@
         }
       ],
       "labels": [],
+      "id": 773,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14154,6 +14499,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 774,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14180,6 +14526,7 @@
           "bind": "/opt/mediadepot/apps"
         }
       ],
+      "id": 777,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14225,6 +14572,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 780,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14296,6 +14644,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 781,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14367,6 +14716,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 783,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14412,6 +14762,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 785,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14494,6 +14845,7 @@
         }
       ],
       "labels": [],
+      "id": 786,
       "maintainer": " https://github.com/mediadepot/templates/"
     },
     {
@@ -14545,6 +14897,7 @@
           "value": "mydnschallenge"
         }
       ],
+      "id": 788,
       "maintainer": " https://github.com/mediadepot/templates/"
     }
   ]
